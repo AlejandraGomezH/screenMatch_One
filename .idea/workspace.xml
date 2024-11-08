@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="badf65ab-b1d2-48ae-a460-d665211a3616" name="Changes" comment="ADD getter y setters">
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/calculos/CalculadoraDeTiempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Titulo.java" afterDir="false" />
+    <list default="true" id="badf65ab-b1d2-48ae-a460-d665211a3616" name="Changes" comment="ADD polimorfismo, herencia y paquetes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Pelicula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +64,7 @@
       <workItem from="1730596323446" duration="4476000" />
       <workItem from="1730785718628" duration="1770000" />
       <workItem from="1730947571565" duration="1591000" />
-      <workItem from="1731039167005" duration="617000" />
+      <workItem from="1731039167005" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="ADD pelicula y principal classes">
       <option name="closed" value="true" />
@@ -95,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730534491137</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ADD polimorfismo, herencia y paquetes">
+      <option name="closed" value="true" />
+      <created>1731040037124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731040037125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +109,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -115,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD pelicula y principal classes" />
     <MESSAGE value="ADD getter y setters" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD getter y setters" />
+    <MESSAGE value="ADD polimorfismo, herencia y paquetes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD polimorfismo, herencia y paquetes" />
   </component>
 </project>
