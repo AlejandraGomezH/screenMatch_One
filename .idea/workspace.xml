@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="badf65ab-b1d2-48ae-a460-d665211a3616" name="Changes" comment="ADD polimorfismo, herencia y paquetes">
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/calculos/Clasificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/calculos/FiltroRecomendacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Episodio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/principal/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/principal/PrincipalConListas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -65,6 +74,13 @@
       <workItem from="1730785718628" duration="1770000" />
       <workItem from="1730947571565" duration="1591000" />
       <workItem from="1731039167005" duration="1298000" />
+      <workItem from="1731131381143" duration="1773000" />
+      <workItem from="1731807720903" duration="4059000" />
+      <workItem from="1731824441719" duration="937000" />
+      <workItem from="1732075237447" duration="1021000" />
+      <workItem from="1732764492435" duration="83000" />
+      <workItem from="1732766013320" duration="5741000" />
+      <workItem from="1732813616600" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="ADD pelicula y principal classes">
       <option name="closed" value="true" />
